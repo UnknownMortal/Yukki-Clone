@@ -23,6 +23,16 @@
         "value": "",
         "required": true
       },
+      "SUPPORT_GROUP": {
+        "description": "Your support group link !!",
+        "value": "",
+        "required": false
+      },
+      "SUPPORT_CHANNEL": {
+        "description": "Your support channel link !!",
+        "value": "",
+        "required": false
+      },
       "AUTO_LEAVING_ASSISTANT": {
         "description": "If you want your assistant to leave all chats automatically after some time.",
         "value": "True",
