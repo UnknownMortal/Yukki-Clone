@@ -24,14 +24,14 @@
 
 <br>
 
-### <b>🚀 Click on the Button given below for deploying on Heroku : </b>
+### <b>🌟 Click on the Button given below for deploying on Heroku : </b>
   
   <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/UnknownMortal/Yukki-Clone"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <br>
 
 
-## ⚠️ Security
+## 👤 Security
 
 YukkiMusicBot follows good practices of security, but 100% security cannot be assured. YukkiMusicBot is provided **"as is"** without any **warranty**. Use at your own risk.
 
