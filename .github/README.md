@@ -1,4 +1,4 @@
-### <b> ᴛʜɪs ʀᴇᴘᴏsɪᴛᴏʀʏ ɪs ᴊᴜsᴛ ᴀ ᴄʟᴏɴᴇ ᴏғ [ʏᴜᴋᴋɪ-ᴍᴜsɪᴄ-ʙᴏᴛ](http://github.com/TeamYukki/YukkiMusicBot) !! </b>
+### <b> 🌟 ᴛʜɪs ʀᴇᴘᴏsɪᴛᴏʀʏ ɪs ᴊᴜsᴛ ᴀ ᴄʟᴏɴᴇ ᴏғ [ʏᴜᴋᴋɪ-ᴍᴜsɪᴄ-ʙᴏᴛ](http://github.com/TeamYukki/YukkiMusicBot) !! </b>
 
 <br>
 
