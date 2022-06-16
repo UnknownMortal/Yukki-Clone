@@ -69,7 +69,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             ),
         ],
         [
-            InlineKeyboardButton(text="👤 Owner", user_id=OWNER),
+            InlineKeyboardButton(text="🏳️‍🌈 Owner", user_id=OWNER),
             InlineKeyboardButton(
                 text="🌐 GitHub", url=f"https://github.com/UnknownMortal/Yukki-Clone"
             ),
