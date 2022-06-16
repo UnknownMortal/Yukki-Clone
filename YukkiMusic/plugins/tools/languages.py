@@ -124,7 +124,7 @@ async def language_markup(client, CallbackQuery, _):
         )
     except:
         return await CallbackQuery.answer(
-            "Failed to change language or Language under update.",
+            "Error 404 !! Failed ❌",
             show_alert=True,
         )
     await set_lang(CallbackQuery.message.chat.id, langauge)
